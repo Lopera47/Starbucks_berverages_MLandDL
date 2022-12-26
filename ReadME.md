@@ -1,3 +1,7 @@
+Research question:
+1. How can a machine learning model be built to forecast the amount of calories of a beverage based on its ingredients?
+2. Is possible to classify the type of beverage based on its ingredients?
+
 General information:
 1 This is a personal project done by Luis Lopera 
 2 The main aim is to improve some machine learnig and deep learning skills for me and the community
